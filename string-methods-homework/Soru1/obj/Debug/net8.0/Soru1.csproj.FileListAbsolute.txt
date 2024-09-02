@@ -1,0 +1,15 @@
+C:\Users\enes4\Documents\GitHub\HomeWorks_29_08_2024\string-methods-homework\Soru1\bin\Debug\net8.0\Soru1.exe
+C:\Users\enes4\Documents\GitHub\HomeWorks_29_08_2024\string-methods-homework\Soru1\bin\Debug\net8.0\Soru1.deps.json
+C:\Users\enes4\Documents\GitHub\HomeWorks_29_08_2024\string-methods-homework\Soru1\bin\Debug\net8.0\Soru1.runtimeconfig.json
+C:\Users\enes4\Documents\GitHub\HomeWorks_29_08_2024\string-methods-homework\Soru1\bin\Debug\net8.0\Soru1.dll
+C:\Users\enes4\Documents\GitHub\HomeWorks_29_08_2024\string-methods-homework\Soru1\bin\Debug\net8.0\Soru1.pdb
+C:\Users\enes4\Documents\GitHub\HomeWorks_29_08_2024\string-methods-homework\Soru1\obj\Debug\net8.0\Soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes4\Documents\GitHub\HomeWorks_29_08_2024\string-methods-homework\Soru1\obj\Debug\net8.0\Soru1.AssemblyInfoInputs.cache
+C:\Users\enes4\Documents\GitHub\HomeWorks_29_08_2024\string-methods-homework\Soru1\obj\Debug\net8.0\Soru1.AssemblyInfo.cs
+C:\Users\enes4\Documents\GitHub\HomeWorks_29_08_2024\string-methods-homework\Soru1\obj\Debug\net8.0\Soru1.csproj.CoreCompileInputs.cache
+C:\Users\enes4\Documents\GitHub\HomeWorks_29_08_2024\string-methods-homework\Soru1\obj\Debug\net8.0\Soru1.sourcelink.json
+C:\Users\enes4\Documents\GitHub\HomeWorks_29_08_2024\string-methods-homework\Soru1\obj\Debug\net8.0\Soru1.dll
+C:\Users\enes4\Documents\GitHub\HomeWorks_29_08_2024\string-methods-homework\Soru1\obj\Debug\net8.0\refint\Soru1.dll
+C:\Users\enes4\Documents\GitHub\HomeWorks_29_08_2024\string-methods-homework\Soru1\obj\Debug\net8.0\Soru1.pdb
+C:\Users\enes4\Documents\GitHub\HomeWorks_29_08_2024\string-methods-homework\Soru1\obj\Debug\net8.0\Soru1.genruntimeconfig.cache
+C:\Users\enes4\Documents\GitHub\HomeWorks_29_08_2024\string-methods-homework\Soru1\obj\Debug\net8.0\ref\Soru1.dll
